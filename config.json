@@ -1,10 +1,10 @@
 {
-    "interval_mins": 15,
+    "timeout_ms": 1000,
     "max_alerts": 800,
     "max_users": 400,
     "max_jams": 200,
-    "pos_top": 0.1,
-    "pos_bottom": 0.1,
-    "pos_left": 0.1,
-    "pos_right": 0.1
+    "pos_top": 42.13156902350599,
+    "pos_bottom": 34.95179045519275,
+    "pos_left": -96.59179687500001,
+    "pos_right": -71.27929687500001
 }
