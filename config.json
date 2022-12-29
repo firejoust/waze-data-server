@@ -1,0 +1,10 @@
+{
+    "interval_mins": 15,
+    "max_alerts": 800,
+    "max_users": 400,
+    "max_jams": 200,
+    "pos_top": 0.1,
+    "pos_bottom": 0.1,
+    "pos_left": 0.1,
+    "pos_right": 0.1
+}
